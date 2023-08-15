@@ -4,7 +4,7 @@
 
 Rogue Pickings is a simple, single-page website for a fictional food truck business. The website is designed to be clean and easy to navigate, providing essential information to visitors. It features a menu section showcasing today's specials, a reviews section with the latest customer feedback, and a contact section with the business's address and phone number.
 
-![a close up of a bunch of green beans]()
+![a close up of a bunch of green beans](./rogue-pickings-design-docs/rogue-pickings-final-Ss.png)
 
 ## Features
 
