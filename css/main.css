@@ -58,7 +58,7 @@ header nav ul {
 }
 
 header nav ul li {
-    
+    display: inline-block;
 }
 
 header nav ul li a {
@@ -114,7 +114,7 @@ header nav ul li a {
 
 /******** FOOTER STYLES ********/
 footer {
-    
+    text-align: center;
 }
 
 footer span {
