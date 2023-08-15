@@ -4,6 +4,8 @@
 
 Rogue Pickings is a simple, single-page website for a fictional food truck business. The website is designed to be clean and easy to navigate, providing essential information to visitors. It features a menu section showcasing today's specials, a reviews section with the latest customer feedback, and a contact section with the business's address and phone number.
 
+![a close up of a bunch of green beans]()
+
 ## Features
 
 + Responsive design that works on desktop, tablets, and mobiles
@@ -44,4 +46,4 @@ rogue-pickings/
 ## Credits
 This project was created by [Skillcrush](https://skillcrush.com/) - The online coding & design school with a :heart:	
 
-Live Project Link: Rogue Pickings on GitHub
+Live Project Link: [Rogue Pickings](https://christopherjack.github.io/rogue-pickings/) on GitHub
