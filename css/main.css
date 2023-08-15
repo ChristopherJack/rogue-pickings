@@ -44,10 +44,12 @@ p {
 header h1 {
     width: 300px;
     float: left;
+    margin: 0px;
+    padding: 36px 0px;
 }
 
 header h1 span {
-
+    color: #45610E;
 }
 
 header nav {
