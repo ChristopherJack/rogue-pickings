@@ -18,7 +18,8 @@ To get the site up and running on your local machine, follow these steps:
 1. Navigate to the project directory:<br>
 `cd rogue-pickings`
 1. Open the HTML file in your browser:<br>
-`open index.html`
+`open index.html`<br>
+or simply double-click on the index.html file in your file manager to open it in your default web browser.
 
 ## File Structure
 ```
